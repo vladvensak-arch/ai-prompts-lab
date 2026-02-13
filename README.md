@@ -1,15 +1,36 @@
 # AI Prompts Lab
 
-This repository contains structured, reusable AI prompts.
+Це мій репозиторій системного управління AI-проєктами та промптами.
 
-## Purpose
-- Store prompts as project assets
-- Version control with Git
-- Portfolio-ready structure for Upwork
+---
 
-## Structure
-- /templates — reusable prompt templates
-- /prompts — real-world prompts by use case
+## 🧠 Project Systems
 
-## Status
-Work in progress
+### 1️⃣ Voice — Dental — NYC — Sophia
+Розташування: prompts/02-project-systems/voice-dental-nyc-sophia
+
+Призначення:
+AI голосовий агент для бронювання (ElevenLabs + Cal.com)
+
+Workflow:
+- 01-project-instructions → контекст та правила проекту
+- 02-planning-chat → стратегія та roadmap
+- 03-specialized-template → поетапне виконання
+
+---
+
+## 💼 UpWork Systems
+
+Розташування: prompts/01-upwork
+
+Призначення:
+Система створення cover letters та архітектури пропозицій.
+
+---
+
+## 🧩 Templates
+
+Розташування: templates/
+
+Призначення:
+Базові шаблони для нових AI-проєктів.
